@@ -119,5 +119,7 @@ Run all cells to fetch data, perform analysis, and generate visualizations.
 ## 👨‍💻 Author
 
 Soham Rajwani
+
 GitHub: https://github.com/SohamRajwani
+
 Aspiring Data Analyst | Python Developer | Data Visualization Enthusiast
