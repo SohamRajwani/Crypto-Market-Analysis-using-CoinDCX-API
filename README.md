@@ -33,6 +33,31 @@ The project fetches live cryptocurrency prices, stores historical data in CSV fo
 
 ---
 
+## 📸 Project Screenshots
+
+### Bitcoin Moving Average Analysis
+
+This chart shows the moving average trend of Bitcoin prices collected from the CoinDCX Public API.
+
+![Bitcoin Moving Average](moving_average.png)
+
+---
+
+### Cryptocurrency Price Comparison
+
+This chart compares the prices of multiple cryptocurrencies and helps visualize their relative market values.
+
+![Price Comparison](comparison_chart.png)
+
+---
+
+### Multi-Line Trend Analysis (BTC, ETH, DOGE)
+
+This chart displays the price trends of Bitcoin (BTC), Ethereum (ETH), and Dogecoin (DOGE) over time using data collected from the CoinDCX Public API.
+
+![Multi-Line Trend Analysis](multi_line_chart.png)
+
+
 ## Project Structure
 
 ```text
