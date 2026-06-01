@@ -1,7 +1,6 @@
 # Crypto-Market-Analysis-using-CoinDCX-API
 Cryptocurrency Market Analysis using CoinDCX API, Python, Pandas and Matplotlib
 
-# 🚀 Crypto Market Analysis using CoinDCX API
 
 ## Project Overview
 
@@ -76,3 +75,49 @@ Crypto-Market-Analysis/
 ├── prices.csv
 ├── requirements.txt
 └── screenshots/
+
+## ▶️ How to Run the Project
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/SohamRajwani/Crypto-Market-Analysis-using-CoinDCX-API
+```
+
+### Install Required Libraries
+
+```bash
+pip install -r requirements.txt
+```
+
+### Open the Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+
+Open:
+
+```text
+Crypto_Market_Analysis.ipynb
+```
+
+Run all cells to fetch data, perform analysis, and generate visualizations.
+
+
+## 📊 Key Outcomes
+
+- Connected to CoinDCX Public API
+- Retrieved live cryptocurrency market data
+- Stored data in CSV format
+- Performed data validation and cleaning
+- Created moving average analysis
+- Compared multiple cryptocurrencies
+- Visualized market trends using Matplotlib
+
+
+## 👨‍💻 Author
+
+Soham Rajwani
+GitHub: https://github.com/SohamRajwani
+Aspiring Data Analyst | Python Developer | Data Visualization Enthusiast
